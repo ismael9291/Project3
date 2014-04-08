@@ -1,0 +1,10 @@
+There will be total 5 classes.
+1. Subject
+2. Product
+3. Observer
+4. Person
+5. Main
+
+There will be 5 java files attached.
+
+I hope you like my solution :)
